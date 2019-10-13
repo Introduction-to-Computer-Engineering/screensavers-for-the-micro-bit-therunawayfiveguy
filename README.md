@@ -109,11 +109,22 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 ### SS 1
 
-_[Your description of screensaver 1]_
+The default screen saver whn pressing A randomly fills leds then, after a second they turn off, this process repeats
 
 ### SS 2 
 
-_[And so on]_
+Tilting left will pick a corner and fill the rest of the leds horizontally and the unplot them, this process loops
+
+### SS 3
+Tilting right will randomly pick a point on the microbit and the will plot the leds surrouding it, this process loops
+
+### SS 4
+Shaking will pick a corner and fill the rest of the leds vertically and the unplot them, the timing is different to show this process loops
+
+### SS 5
+Freefall(microbit couldn't detect freefall, tested with another simple program) Picks random straight lines to draw across the microbit
+
 
 ## Demo URL
 
+Imgur won't let me upload.
